@@ -19,7 +19,7 @@
 
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes, frameworks y herramientas
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Stack tecnológico
 </h2>
 
 <h3>Frontend</h3>
@@ -47,11 +47,7 @@
   </a>
   <a href="https://kotlinlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/kotlin-6A57FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-E21822.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
-  </a>
-  
+  </a>  
 </p>
 
 
@@ -66,11 +62,8 @@
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
   </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/docker-2697ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/java-E21822.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
   </a>
 </p>
 
@@ -95,6 +88,39 @@
     <img src="https://img.shields.io/badge/knime-F7CE00.svg?style=for-the-badge&logo=knime&logoColor=black" alt="knime"/>
   </a>
 </p>
+
+<h3>DevOps</h3>
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05133.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/docker-2697ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+</p>
+
+<h3>Diseño</h3>
+<p>
+  <a href="https://www.figma.com/es-es/" target="_blank">
+    <img src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  </a>
+  <a href="https://www.axure.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/axure-5B66FF.svg?style=for-the-badge&logo=axure&logoColor=white" alt="axure"/>
+  </a>
+  <a href="https://www.affinity.studio/es_es" target="_blank">
+    <img src="https://img.shields.io/badge/affinity-A7F175.svg?style=for-the-badge&logo=affinity&logoColor=white" alt="affinity" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/canva-24BECA.svg?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
+  </a>
+</p>
+
 
 ### 🌐 [Visita mi Portfolio](https://www.arianaporroche.com/)
 
