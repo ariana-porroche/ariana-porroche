@@ -142,10 +142,11 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mis proyectos
 </h2>
 
-| Nombre                                                             | Descripción                                                                  |
-| -------------------------------------------------------------------|------------------------------------------------------------------------------|
-| _[Mi portfolio](https://github.com/ariana-porroche/my-portfolio)_  | Mi portfolio personal en React.js                                            |
-| _[A-Darts](https://github.com/a-darts)_                            | Aplicación multiplataforma de gestión de torneos de dardos de punta de acero |
+| Nombre                                                                 | Descripción                                                                  |
+| -----------------------------------------------------------------------|------------------------------------------------------------------------------|
+| _[Mi portfolio](https://github.com/ariana-porroche/my-portfolio)_      | Mi portfolio personal en React.js                                            |
+| _[A-Darts](https://github.com/a-darts/repositories)_                   | Aplicación multiplataforma de gestión de torneos de dardos de punta de acero |
+| _[GeoAda](https://github.com/orgs/UNIZAR-30249-2026-G07/repositories)_ | Aplicación web para la gestión de reservas de espacios                       |
 
 
 ------
