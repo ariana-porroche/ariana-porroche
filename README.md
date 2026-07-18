@@ -13,22 +13,16 @@
 
 - 🤝 Busco mi primera oportunidad profesional donde seguir aprendiendo y creciendo como desarrolladora software.
 
-<!-- Section lenguages and tools -->
-
-<h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes, frameworks y herramientas
-</h2>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,astro,tailwind,nextjs,nestjs,postgresql,mongodb,docker,figma,&perline=8" />
-  </a>
 
 
 <!-- Sección lenguajes y herramientas -->
 
+
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Frontend
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes, frameworks y herramientas
 </h2>
+
+<h3>Frontend</h3>
 <p>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/> 
@@ -54,13 +48,14 @@
   <a href="https://kotlinlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/kotlin-6A57FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
   </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/java-E21822.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
+  </a>
   
 </p>
 
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Backend
-</h2>
+<h3>Backend</h3>
 <p>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
@@ -79,9 +74,7 @@
   </a>
 </p>
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Datos
-</h2>
+<h3>Datos</h3>
 <p>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-31648C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
