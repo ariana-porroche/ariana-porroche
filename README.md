@@ -9,13 +9,12 @@
 
 - 🌱 Apasionada por diseñar y desarrollar soluciones software robustas que resuelvan problemas reales, priorizando la calidad del código, la escalabilidad y una excelente experiencia de usuario.
 
-- 👨‍💻 +8 proyectos desarrollados
+- 👨‍💻 +8 proyectos desarrollados.
 
 - 🤝 Busco mi primera oportunidad profesional donde seguir aprendiendo y creciendo como desarrolladora software.
 
 
-
-<!-- Sección lenguajes y herramientas -->
+---
 
 
 <h2>
@@ -49,7 +48,6 @@
     <img src="https://img.shields.io/badge/kotlin-6A57FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
   </a>  
 </p>
-
 
 <h3>Backend</h3>
 <p>
@@ -94,7 +92,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05133.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/ariana-porroche" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
@@ -122,7 +120,43 @@
 </p>
 
 
-### 🌐 [Visita mi Portfolio](https://www.arianaporroche.com/)
+------
+
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mi portfolio
+</h2>
+
+<p>
+  Visita mi portfolio aquí: 
+  <a href="https://www.arianaporroche.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/arianaporroche.com-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
 
 ------
-Última actualización: 16/07/2026
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Contacta conmigo
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariana-porroche-llor%C3%A9n-745185369/" target="_blank"> 
+    <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/ariana-porroche-llor%C3%A9n-745185369/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />
+  </a> -->
+  <a href="mailto:arianaporroche@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/arianaporroche@gmail.com-E84F4A.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://www.arianaporroche.com/contacto" target="_blank"> 
+    <img src="https://img.shields.io/badge/formulario-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="formulario de contacto"/>
+  </a>
+  
+  
+</p>
+
+------
+
+Última actualización: 18/07/2026
