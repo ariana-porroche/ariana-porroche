@@ -128,11 +128,25 @@
 </h2>
 
 <p>
-  Visita mi portfolio aquí: 
+  Visita mi portfolio aquí:  
   <a href="https://www.arianaporroche.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/arianaporroche.com-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
   </a>
 </p>
+
+
+------
+
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mis proyectos
+</h2>
+
+| Nombre                                                             | Descripción                                                                  |
+| -------------------------------------------------------------------|------------------------------------------------------------------------------|
+| _[Mi portfolio](https://github.com/ariana-porroche/my-portfolio)_  | Mi portfolio personal en React.js                                            |
+| _[A-Darts](https://github.com/a-darts)_                            | Aplicación multiplataforma de gestión de torneos de dardos de punta de acero |
+
 
 ------
 
