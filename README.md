@@ -79,6 +79,30 @@
   </a>
 </p>
 
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Datos
+</h2>
+<p>
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-31648C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-92D5F4.svg?style=for-the-badge&logo=sqlite&logoColor=black" alt="sqlite"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-E48E00.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-6CAC48.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
+  </a> 
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/redis-C5302C.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
+  </a>
+  <a href="https://www.knime.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/knime-F7CE00.svg?style=for-the-badge&logo=knime&logoColor=black" alt="knime"/>
+  </a>
+</p>
+
 ### 🌐 [Visita mi Portfolio](https://www.arianaporroche.com/)
 
 ------
