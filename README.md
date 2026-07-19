@@ -1,5 +1,5 @@
 # Hola👋, soy Ariana Porroche
-### 💻 Ingeniera Informática
+💻 **Ingeniera Informática** por la Universidad de Zaragoza
 
 <!-- Section Badges -->
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/elverdavid-dev/](https://www.linkedin.com/in/ariana-porroche-llor%C3%A9n-745185369/))
