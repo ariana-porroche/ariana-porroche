@@ -9,7 +9,7 @@
 
 - 🌱 Apasionada por diseñar y desarrollar soluciones software robustas que resuelvan problemas reales, priorizando la calidad del código, la escalabilidad y una excelente experiencia de usuario.
 
-- 👨‍💻 +8 proyectos desarrollados.
+- 👨‍💻 +7 proyectos desarrollados.
 
 - 🤝 Busco mi primera oportunidad profesional donde seguir aprendiendo y creciendo como desarrolladora software.
 
@@ -142,11 +142,15 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mis proyectos
 </h2>
 
-| Nombre                                                                 | Descripción                                                                  |
-| -----------------------------------------------------------------------|------------------------------------------------------------------------------|
-| _[Mi portfolio](https://github.com/ariana-porroche/my-portfolio)_      | Mi portfolio personal en React.js                                            |
-| _[A-Darts](https://github.com/a-darts/repositories)_                   | Aplicación multiplataforma de gestión de torneos de dardos de punta de acero |
-| _[GeoAda](https://github.com/orgs/UNIZAR-30249-2026-G07/repositories)_ | Aplicación web para la gestión de reservas de espacios                       |
+| Nombre                                                                               | Descripción                                                                                         |
+| -------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| _[Mi portfolio](https://github.com/ariana-porroche/my-portfolio)_                    | Mi portfolio personal en React.js                                                                   |
+| _[A-Darts](https://github.com/a-darts/repositories)_                                 | Sistema de gestión en tiempo real de torneos de dardos de punta de acero                            |
+| _[GeoAda](https://github.com/orgs/UNIZAR-30249-2026-G07/repositories)_               | Aplicación web para la gestión de reservas de espacios                                              |
+| _[Montgomery SafetyMap](https://github.com/orgs/UNIZAR-30256-2026-G17/repositories)_ | Aplicación web para la gestión de delitos del Condado de Montgomery (Maryland, EE.UU.)              |
+| _[PlanMyWeather](https://github.com/orgs/fatal-error-2025/repositories)_             | Aplicación web para predecir condiciones meteorológicas en Zaragoza a partir de datos de la NASA    |
+| _[Dartly](https://github.com/orgs/UNIZAR-30248-2025-DARTLY/repositories)_            | Aplicación web para la gestión de ligas de dardos de punta de acero                                 |
+| _[CodeLab](https://github.com/codelabzgz)_                                           | Rediseño de la aplicación web de la asociación de estudiantes CodeLab de la Universidad de Zaragoza |
 
 
 ------
@@ -174,4 +178,4 @@
 
 ------
 
-Última actualización: 18/07/2026
+Última actualización: 19/07/2026
