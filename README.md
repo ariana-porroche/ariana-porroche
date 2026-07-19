@@ -14,9 +14,6 @@
 - 🤝 Busco mi primera oportunidad profesional donde seguir aprendiendo y creciendo como desarrolladora software.
 
 
----
-
-
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Stack tecnológico
 </h2>
@@ -71,9 +68,6 @@
 </p>
 
 
-------
-
-
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mi portfolio
 </h2>
@@ -84,9 +78,6 @@
     <img src="https://img.shields.io/badge/arianaporroche.com-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
   </a>
 </p>
-
-
-------
 
 
 <h2>
@@ -104,8 +95,6 @@
 | _[CodeLab](https://github.com/codelabzgz)_                                           | Rediseño de la aplicación web de la asociación de estudiantes CodeLab de la Universidad de Zaragoza |
 
 
-------
-
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Contacta conmigo
 </h2>
@@ -117,6 +106,8 @@
   <a href="https://www.arianaporroche.com/contacto" target="_blank"> <img src="https://img.shields.io/badge/formulario-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="formulario de contacto"/></a> 
 </p>
 
-------
+
+---
+
 
 Última actualización: 19/07/2026
