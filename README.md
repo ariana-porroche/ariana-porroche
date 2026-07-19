@@ -32,7 +32,7 @@
 
 <h3>Backend</h3>
 <p>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-579B4C.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://img.shields.io/badge/nest.js-F40057.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/></a>
   <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-E21822.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
